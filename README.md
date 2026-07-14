@@ -77,10 +77,8 @@ Documenting my Machine Learning journey through algorithms, projects and experim
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashchatterjee18&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashchatterjee18&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akashchatterjee18&show_icons=true&theme=tokyonight" />
 </p>
----
 
 ## 🔥 GitHub Streak
 
