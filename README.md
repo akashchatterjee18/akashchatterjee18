@@ -34,7 +34,7 @@ Become an AI Engineer by building real-world projects and continuously learning 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,numpy,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,sklearn" />
 
 </p>
 
@@ -46,7 +46,7 @@ Become an AI Engineer by building real-world projects and continuously learning 
 
 ✅ SQL
 
-🔄 Statistics
+✅ Statistics
 
 🔄 Machine Learning
 
@@ -67,9 +67,9 @@ Comprehensive notes, examples and mini-projects covering Python fundamentals to 
 Learning SQL through practical examples including CRUD, Joins, Constraints, Views, CTEs, Window Functions and PostgreSQL.
 
 ### 📊 EDA Learning Journey
-Hands-on Exploratory Data Analysis using Pandas, NumPy and Matplotlib.
+Hands-on Exploratory Data Analysis using Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.
 
-### 🤖 ML Journey
+### 🤖 ML Learning Journey
 Documenting my Machine Learning journey through algorithms, projects and experiments.
 
 ---
@@ -103,8 +103,6 @@ Documenting my Machine Learning journey through algorithms, projects and experim
 - Learn Generative AI
 - Build 15+ Projects
 - Contribute to Open Source
-- Prepare for GATE
-- Strengthen Data Structures & Algorithms
 
 ---
 
@@ -116,7 +114,7 @@ Documenting my Machine Learning journey through algorithms, projects and experim
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:akash.zestaura@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
