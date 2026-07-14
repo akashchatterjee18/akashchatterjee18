@@ -135,6 +135,6 @@ Documenting my Machine Learning journey through algorithms, projects and experim
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Consistency beats intensity."*
+*Consistency beats Intensity*
 
 </div>
