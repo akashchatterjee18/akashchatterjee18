@@ -34,7 +34,7 @@ Become an AI Engineer by building real-world projects and continuously learning 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,numpy,pandas,vscode,sklearn" />
 
 </p>
 
