@@ -20,6 +20,9 @@
 - Statistics
 - Machine Learning
 - Data Analysis
+- Deep Learning
+- Generative AI
+- Agentic AI
 
 🎯 Goal
 
