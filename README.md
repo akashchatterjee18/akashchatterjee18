@@ -114,13 +114,20 @@ Documenting my Machine Learning journey through algorithms, projects and experim
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:akash.zestaura@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+
+<a href="https://www.instagram.com/akashchatterjee_1">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://github.com/akashchatterjee18">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+  
+<a href="mailto:akashthecreater1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+
 
 </p>
 
