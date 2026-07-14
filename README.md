@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Akash Chatterjee
+# Akash Chatterjee
 
-### AI & Machine Learning | Data Science | Generative AI
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Learning+AI;Machine+Learning+%7C+Data+Science+%7C+Generative+AI" />
 
