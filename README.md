@@ -4,7 +4,7 @@
 
 ### AI & Machine Learning | Data Science | Generative AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Learning+AI;Machine+Learning+%7C+Data+Science+%7C+Generative+AI." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Learning+AI;Machine+Learning+%7C+Data+Science+%7C+Generative+AI" />
 
 </div>
 
@@ -34,19 +34,7 @@ Become an AI Engineer by building real-world projects and continuously learning 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,sklearn" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,numpy-original,pandas-original,sklearn" />
 
 </p>
 
