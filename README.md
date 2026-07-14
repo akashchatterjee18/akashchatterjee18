@@ -6,29 +6,7 @@
 </div>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ASPIRING-0D1117?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/AI%20ENGINEER-00D4FF?style=for-the-badge&color=00D4FF"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/DEEP-0D1117?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/LEARNING-7C3AED?style=for-the-badge&color=7C3AED"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/GENERATIVE-0D1117?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/AI-EC4899?style=for-the-badge&color=EC4899"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/IIT-0D1117?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/MADRAS-62E56A?style=for-the-badge&color=62E56A"/>
-
+<img src="https://img.shields.io/badge/ASPIRING-0D1117?style=for-the-badge&labelColor=0D1117"><img src="https://img.shields.io/badge/AI%20ENGINEER-00D4FF?style=for-the-badge&color=00D4FF">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/DEEP-0D1117?style=for-the-badge&labelColor=0D1117"><img src="https://img.shields.io/badge/LEARNING-7C3AED?style=for-the-badge&color=7C3AED">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/GENERATIVE-0D1117?style=for-the-badge&labelColor=0D1117"><img src="https://img.shields.io/badge/AI-EC4899?style=for-the-badge&color=EC4899">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/IIT-0D1117?style=for-the-badge&labelColor=0D1117"><img src="https://img.shields.io/badge/MADRAS-62E56A?style=for-the-badge&color=62E56A">
 </p>
 
 ---
