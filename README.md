@@ -74,22 +74,6 @@ Documenting my Machine Learning journey through algorithms, projects and experim
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akashchatterjee18&show_icons=true&theme=tokyonight" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=akashchatterjee18&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - Complete Machine Learning
