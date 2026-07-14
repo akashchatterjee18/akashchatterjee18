@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Akash Chatterjee
 
-### AI & Machine Learning Student | Python Developer | Data Science Enthusiast
+### AI & Machine Learning | Data Science | Generative AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Learning+AI+one+project+at+a+time.;Building+strong+foundations+in+Python+%26+SQL.;Machine+Learning+%7C+Data+Science+%7C+Open+Source." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Learning+AI;Machine+Learning+%7C+Data+Science+%7C+Generative+AI." />
 
 </div>
 
