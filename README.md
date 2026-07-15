@@ -21,7 +21,7 @@
 
 - Python
 - SQL & PostgreSQL
-- Statistics
+- Statistics & Mathematics
 - Machine Learning
 - Data Analysis
 - Deep Learning
@@ -67,7 +67,7 @@ Become an AI Engineer by building real-world projects and continuously learning 
 
 ✅ SQL
 
-✅ Statistics
+✅ Statistics & Mathematics
 
 🔄 Machine Learning
 
