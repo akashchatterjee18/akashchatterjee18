@@ -13,9 +13,17 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML)
+I'm Akash Chatterjee, a Computer Science (AI & ML) student passionate about Data Science, Artificial Intelligence & Machine Learning, Deep Learning and Generative AI. I enjoy applying data-driven approaches to solve real-world problems while continuously expanding my knowledge of modern AI technologies.
 
-🎓 IIT Madras BS in Data Science
+Currently, I'm pursuing:
+
+🎓 B.Tech in Computer Science (AI & ML)
+🎓 IIT Madras BS in Data Science and Applications
+
+Beyond academics:
+
+👕 Co-Founder of ZESTAURA Clothing, a premium streetwear brand
+💡 Passionate about entrepreneurship, technology and AI-driven innovation
 
 🌱 Currently exploring
 
