@@ -18,11 +18,13 @@ I'm Akash Chatterjee, a Computer Science (AI & ML) student passionate about Data
 Currently, I'm pursuing:
 
 🎓 B.Tech in Computer Science (AI & ML)
+
 🎓 IIT Madras BS in Data Science and Applications
 
 Beyond academics:
 
 👕 Co-Founder of ZESTAURA Clothing, a premium streetwear brand
+
 💡 Passionate about entrepreneurship, technology and AI-driven innovation
 
 🌱 Currently exploring
