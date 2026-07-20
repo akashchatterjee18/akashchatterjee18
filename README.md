@@ -36,7 +36,6 @@ Beyond academics:
 - Data Analysis
 - Deep Learning
 - Generative AI
-- Agentic AI
 
 🎯 Goal
 
@@ -85,7 +84,6 @@ Become an AI Engineer by building real-world projects and continuously learning 
 
 ⬜ Generative AI
 
-⬜ Agentic AI
 
 ---
 
