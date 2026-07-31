@@ -108,8 +108,7 @@ Documenting my Machine Learning journey through algorithms, projects and experim
 - Complete Machine Learning
 - Complete Deep Learning
 - Learn Generative AI
-- Build 15+ Projects
-- Contribute to Open Source
+- Build Projects
 
 ---
 
