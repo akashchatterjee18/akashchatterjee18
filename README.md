@@ -95,15 +95,6 @@ Documenting my Machine Learning journey through algorithms, projects and experim
 
 ---
 
-## 🎯 2026 Goals
-
-- Complete Machine Learning
-- Complete Deep Learning
-- Learn Generative AI
-- Build Projects
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
