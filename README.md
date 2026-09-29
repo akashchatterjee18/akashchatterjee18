@@ -35,11 +35,6 @@ Beyond academics:
 - Machine Learning
 - Data Analysis
 - Deep Learning
-- Generative AI
-
-🎯 Goal
-
-Become an AI Engineer by building real-world projects and continuously learning in public.
 
 ---
 
@@ -81,9 +76,6 @@ Become an AI Engineer by building real-world projects and continuously learning 
 🔄 Machine Learning
 
 ⬜ Deep Learning
-
-⬜ Generative AI
-
 
 ---
 
